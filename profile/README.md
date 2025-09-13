@@ -1,6 +1,6 @@
 [![Welcome to Bluewire!](blueWireBanner.png)](https://github.com/bwcoai)
 
-An ultralight, ai-first, cloud/network/devsecops company.
+An ultralight, ai-first, Cloud/Network/Dev/DevSecOps company.
 
 Operating fast and lean in the defense sector through agile and automation.
 
